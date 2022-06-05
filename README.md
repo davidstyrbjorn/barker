@@ -48,7 +48,6 @@ Barker is a social media platform where users can post sound clips and interact 
 ## Built With 🛠
 
 ### Primary tools
-* [Vite](https://vitejs.dev/) (build-tool)
 * [Typescript](https://www.typescriptlang.org/) (programming language)
 * [ReactJS](https://reactjs.org/) (web framework)
 * [Supertokens](https://supertokens.com/) (handles authentication)
@@ -60,7 +59,10 @@ Barker is a social media platform where users can post sound clips and interact 
 * [wavesurfer.js](https://wavesurfer-js.org/) (audio visualization)
 * [react-media-recorder](https://www.npmjs.com/package/react-media-recorder) (record audio from mic)
 
-
+### Backend Tools
+* NodeJS (javascript runtime)
+* MongoDB (database solution)
+* Google Cloud Storage (storing audio binary)
 
 ## Screenshots 🖼
 ![landing page](https://i.imgur.com/tJ2zSw5.png)
