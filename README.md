@@ -22,13 +22,11 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  ![logo](https://i.imgur.com/U18SsH4.png)
+<p align="center">
+  <img width="120" height="120" src="https://i.imgur.com/U18SsH4.png">
+</p>
 
-  <h3 align="center">Barker</h3>
-
-</div>
+<h3 align="center">Barker</h3>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -39,11 +37,10 @@ Barker is a social media platform where users can post sound clips and interact 
 <!-- Authors -->
 ## Authors 🤖
 
-<p><b>GROUP SCREENCAST:</b> https://www.youtube.com/watch?v=L34ucyILOrg</p>
-* David Styrbjörn - <b>SCREENCAST:</b> https://www.youtube.com/watch?v=pkXtgy-pgAs- davst166@student.liu.se <br>
-* Ruben Bromée - <b>SCREENCAST:</b> https://youtu.be/pMlLysvRNns - rubbr232@student.liu.se <br>
-* Emil Bertholdsson - <b>SCREENCAST:</b> https://youtu.be/ZDMbQskKzBw - emibe986@student.liu.se <br>
-* Hugo Dahl - LÄNK - hugda958@student.liu.se  
+* David Styrbjörn <br>
+* Ruben Bromée <br>
+* Emil Bertholdsson <br>
+* Hugo Dahl
 
 ## Built With 🛠
 
@@ -69,7 +66,3 @@ Barker is a social media platform where users can post sound clips and interact 
 ![create profile](https://i.imgur.com/MbLYK6t.png)
 ![sign in](https://i.imgur.com/7easfqn.png)
 ![create profile](https://i.imgur.com/XuYvIQu.png)
-
-
-
-
