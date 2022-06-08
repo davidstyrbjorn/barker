@@ -19,7 +19,7 @@ async function main() {
         dbName: process.env.DATABASE_NAME
     }
     try {
-        await mongoose.connect(process.env.DATABASE_URI_LOCAL!, dbOptions);
+        await mongoose.connect(process.env.DATABASE_URI_REMOTE!, dbOptions);
     }catch(e) {
         console.log("Error connecting to DB: " + e);
     }
